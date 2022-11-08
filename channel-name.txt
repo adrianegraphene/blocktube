@@ -27,3 +27,4 @@ coffeezilla
 MrBeast
 SSSniperWolf
 GaryVee
+MSNBC
