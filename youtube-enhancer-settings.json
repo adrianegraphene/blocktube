@@ -46,7 +46,7 @@
 		"controlsvisible": false,
 		"controlspeed": true,
 		"controlspeedmousebutton": false,
-		"controlvolume": true,
+		"controlvolume": false,
 		"controlvolumemousebutton": false,
 		"convertshorts": false,
 		"customcolors": {
